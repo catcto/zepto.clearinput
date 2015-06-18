@@ -17,5 +17,5 @@
 ___
 ```javascript
 $('.form1 input').clearInput({clear: '.form1 .clear'});
-$('.form2 input').clearInput({clear: '.form2 .clear'});
+$('.form2 input').clearInput({clear: '.form2 .clear',focus:false});
 ```
