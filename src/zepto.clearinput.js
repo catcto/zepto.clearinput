@@ -24,7 +24,6 @@
                     $clear.hide();
                 }
             }
-
             $this.on('keyup keydown change focus', function () {
                 trigger();
             });
