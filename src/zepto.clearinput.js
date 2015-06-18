@@ -1,6 +1,6 @@
 /*
  * zepto.clearinput
- * 
+ * https://github.com/catcto/zepto.clearinput
  */
 (function ($) {
     $.fn.clearInput = function (options) {
