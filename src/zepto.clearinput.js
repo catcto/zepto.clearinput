@@ -1,5 +1,5 @@
 /*
- * zepto.clearinput
+ * zepto.clearinput 1.0.2
  * https://github.com/catcto/zepto.clearinput
  */
 (function ($) {
